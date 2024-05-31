@@ -1,0 +1,13 @@
+{
+  "name": "@bbuukk/slugtrans",
+  "version": "1.0.10",
+  "type": "module",
+  "exports": {
+    "./slugify": "./slugify.js",
+    "./transliterate": "./transliterate.js",
+    "./process": "./process.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
